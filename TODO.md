@@ -20,3 +20,11 @@
 <li>C</li>
 </ul>
 
+
+## Learning Resources ##
+  - Classes - Coursea, HarvardX, etc...
+  - Books - Genaral programming books
+  - Language ('Java') - Dedicated sites, & books
+
+
+
