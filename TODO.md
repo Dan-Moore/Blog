@@ -25,6 +25,6 @@
   - Videos - Youtube, InfoQ, etc...
   - Books - Genaral programming books
   - Language ('Java') - Dedicated sites & books
-  - Developers - People to flow or stalk
+  - Developers - People to follow or stalk
 
 
