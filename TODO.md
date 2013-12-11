@@ -4,27 +4,27 @@
 ## Language Primers ##
 
 ### High-Priority ###
-<ul>
-<li>Java</li>
-<li>Python</li>
-<li>JavaScript</li>
-</ul>
+
+  - Java
+  - Python
+  - JavaScript
 
 
 ### Low-Mid Priority ###
-<ul>
-<li>Clojure</li>
-<li>Scala</li>
-<li>C#</li>
-<li>C++</li>
-<li>C</li>
-</ul>
+
+  - Clojure
+  - Scala
+  - C#
+  - C++
+  - C
+
 
 
 ## Learning Resources ##
   - Classes - Coursea, HarvardX, etc...
+  - Videos - Youtube, InfoQ, etc...
   - Books - Genaral programming books
-  - Language ('Java') - Dedicated sites, & books
-
+  - Language ('Java') - Dedicated sites & books
+  - Developers - People to flow or stalk
 
 
