@@ -1,7 +1,8 @@
-TODO List
-===
+# TODO List #
+
 
 ## Language Primers ##
+
 ### High-Priority ###
 <ul>
 <li>Java</li>
