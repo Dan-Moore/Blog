@@ -24,7 +24,7 @@
   - Classes - Coursea, HarvardX, etc...
   - Videos - Youtube, InfoQ, etc...
   - Books - Genaral programming books
-  - Language ('Java') - Dedicated sites & books
+  - Language (i.e. 'Java') - Dedicated sites & books
   - Developers - People to follow or stalk
 
 
