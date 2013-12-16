@@ -1,12 +1,11 @@
 article {
-  display: block;
+	display: block;
 }
 
 section{
-  display: block;
+	display: block;
 	float: right;
-	width: 85%;
-	padding-left: 20px;
-	margin: 0 0 20px 0px;
-	border-left: 2px dotted #b2a497;
+	padding-left: 30px;
+    width: 80%;
+    border-left: 2px dotted #b2a497;
 }
