@@ -1,0 +1,7 @@
+aside {
+  display: block;
+	float: left;
+	width: 470px;
+	min-height: 480px;
+	margin: 0 0 20px 0;
+}
