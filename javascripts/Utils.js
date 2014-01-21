@@ -13,7 +13,7 @@ var ObjectUtils = {
   },
 
   'isNull': function(input) {
-    return "undefined" === getType(input);
+    return ( null === input || "undefined" === getType(input) );
   },
   
   'isNotNull': function(input) {
